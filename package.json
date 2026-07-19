@@ -1,0 +1,20 @@
+{
+    "name": "com.insaneone.core.injection",
+    "author": "Oleg Dzhuraev (InsaneOne)",
+    "displayName": "InsaneOne Core – Injection",
+    "description": "Lightweight dependency injection / service locator for Unity, extracted from InsaneOne Core. MIT License.",
+    "unity": "2022.1",
+    "version": "1.0.0",
+    "keywords": [
+        "insaneone",
+        "dependency injection",
+        "di",
+        "service locator",
+        "unity extensions"
+    ],
+    "dependencies": {},
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/OlegDzhuraev/InsaneOne.Core.Injection.git"
+    }
+}
